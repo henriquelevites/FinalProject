@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Web Suite" parallel="false">
+    <test name="Web Tests">
+        <parameter name="PlatformName" value="web" />
+<!--   <packages>
+            <package name="sanity"/>
+       </packages> -->
+        <classes>
+            <class name="sanity.SwagLabsWeb" />
+<!--                <methods>
+                    <include name="test06_verifyHamburgerIcon" />
+                </methods>
+            </class>
+-->
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
