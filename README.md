@@ -39,7 +39,7 @@ The project is an example of infrastructure for automation testing on different 
 
 - TestNG - Testing Framework
 - Listeners - interface used to generate logs and customize the TestNG reports
-- MySQL Free Online DB - used for login to Grafana web page
+- MySQL Free Online DB - used for login to SwagLabs web page
 - [Jenkins](https://www.jenkins.io/)- for tests execution
 - REST Assured - for API testing
 - [Allure](http://allure.qatools.ru/) Reports - as the main reporting system
