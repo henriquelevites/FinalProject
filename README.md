@@ -30,10 +30,10 @@ The project is an example of infrastructure for automation testing on different 
 ### **_List of applications tested in this project:_**
 
 - SwagLabs webpage (Web)
-- ApiDemos - (Mobile)
+- ApiDemos (Mobile)
 - Students List (API)
 - ElectronApiDemos (Electron)
-- Windows calculator - (Desktop)
+- Windows calculator (Desktop)
 
 ### **_Tools & Frameworks used in the project:_**
 
