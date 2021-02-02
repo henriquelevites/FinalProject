@@ -1,4 +1,4 @@
-# Full Stack Automation Final Project
+# Full Stack Test Automation Final Project
 
 ## **_This project was created to demonstrate my knowledge and skills in Automation Testing._**
 
@@ -17,7 +17,7 @@ The project is an example of infrastructure for automation testing on different 
 ### **_Infrastructure project includes using of:_**
 
 - Page Object Design Pattern
-- Project Layers(Utilities/Extensions/Work Flows/Test Cases...)
+- Project Layers (Utilities/Extensions/Work Flows/Test Cases...)
 - Support of Different Clients/Browsers
 - Failure Mechanism
 - Common Functionality
